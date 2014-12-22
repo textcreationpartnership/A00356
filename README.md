@@ -36,11 +36,19 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-De immensa dei misericordia. A sermon of the excedynge great mercy of god, / made by ye moste famous
+
+1. ¶To the most honorable lady the lady Coūtese of Salisbury Gentian Heruet her humble seruant gretyng.
+
 #####Body#####
-De immensa dei misericordia. A sermon of the excedynge great mercy of god, / made by ye moste famous
+
+1. ¶A sermō of the excedyng great mercy of god made by Erasmus Roterodamus.
+
 #####Back#####
-De immensa dei misericordia. A sermon of the excedynge great mercy of god, / made by ye moste famous
+
+1. ¶A note to the reder.
+
+1. ¶A good table for them that shall rede this se•m•n and 〈◊〉standen at Latin and frenche ••rmes / vsed in 〈◊〉
+¶Thus endeth the sermon of thexcedinge mercy of god. Imprinted at London in Fletestrete / by Thomas 
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
